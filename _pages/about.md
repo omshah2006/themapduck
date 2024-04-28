@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: A website dedicated to my mapping journey.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: duck.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Can ducks fly?</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+My name is Om and I am a student from Seattle, Washington. I am a big time lover of maps and map infographics. This website explores how big data and maps can be combined to unlock new insights into our world. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The process for the maps that I make for the sake of learning cartography will likely be displayed in the [blog](/themapduck/blog/) section. A portfolio of all my work will be in the [projects](/themapduck/projects/) section. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of my mapping enthusiasm, I research interesting applications of machine learning in social sciences, clinical technology, and biomedical computer vision. Email me if you are interested in connecting!
